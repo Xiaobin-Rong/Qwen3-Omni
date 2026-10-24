@@ -1,0 +1,10 @@
+{
+  "input": "/home/nis/xiaobin.rong/study_lm/slm/turn-duplex/Qwen3-Omni/assets/input.wav",
+  "model": "/data/hdd0/xiaobin.rong/pretrained/Qwen3-Omni-30B-A3B-Instruct",
+  "backend": "vllm-omni",
+  "response_text": "To save more effectively, start by creating a detailed budget to track your spending. Then, set specific financial goals like building an emergency fund, paying off debt, or saving for a vacation. Prioritize needs over wants, automate your savings, and look for ways to cut costs.",
+  "audio": "/home/nis/xiaobin.rong/study_lm/slm/turn-duplex/Qwen3-Omni/assets/output/response.wav",
+  "sample_rate": 24000,
+  "load_seconds": 118.03906710795127,
+  "generation_seconds": 18.360774416010827
+}
